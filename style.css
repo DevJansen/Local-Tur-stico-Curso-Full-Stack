@@ -1,0 +1,92 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #f5f4f0;
+ 
+}
+:root{
+ font-family: "Open Sans", sans-serif; 
+ font-style: normal;
+ color: #333;
+}
+h1{
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+h3{
+  font-size: 28px;
+  font-weight: bold;
+}
+p{
+  font-size: 16px;
+  font-weight: 300;
+  text-align: justify;
+}
+.subtilte{
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+}
+.container{
+  width: 1120px;
+  margin: 40px auto ;
+}
+.headline{
+  color: #e1624f;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+section img{
+  margin-bottom: 24px;
+}
+
+.title_list{
+  margin: 64px auto;
+}
+section p + p{
+  margin-top: 25px ;
+  color: #1b1b1b;
+  font-weight: bold;
+}
+.linha{
+     padding-bottom: 40px;
+    border-bottom: solid 1px #d9d9d9;
+}
+section ul{
+   margin-left: 25px;
+}
+section ul li p{
+  color: #0c51a7;
+  font-weight: 600;
+}
+.container section{
+  margin-bottom: 48px;
+}
+.list .rosa {
+  color: #e5245e;
+}
+.list .laranja{
+  color: #e95e10;
+}
+.description p{
+  margin-top: 40px ;
+  text-align: center;
+}
+footer {
+  margin-top: 20px;
+  text-align: center;
+ 
+}
+footer img{
+  vertical-align: middle;
+  margin-right: 5px;
+}
+main{
+  
+}
